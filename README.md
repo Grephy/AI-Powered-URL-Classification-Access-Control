@@ -29,7 +29,11 @@ git clone https://github.com/Grephy/AI-Powered-URL-Classification-Access-Control
 pip install -r requirements.txt
 ```
 
-3. Run the application:
+3. Download the CSV file containing the dataset from the following link and place it in the project directory:
+
+[Dataset CSV](https://drive.google.com/drive/folders/10Z7BRji31sZfNwU-2lR311slWcdJ8EJ9?usp=sharing)
+
+4. Run the application:
 
 ```bash
 python main.py
