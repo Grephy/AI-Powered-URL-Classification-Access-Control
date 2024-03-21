@@ -20,7 +20,7 @@ To get started with Web Guard, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/web-guard.git
+git clone https://github.com/Grephy/AI-Powered-URL-Classification-Access-Control.git
 ```
 
 2. Install the required dependencies:
