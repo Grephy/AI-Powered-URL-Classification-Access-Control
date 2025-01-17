@@ -36,7 +36,7 @@ pip install -r requirements.txt
 4. Run the application:
 
 ```bash
-python main.py
+malicious url finder and blocker.py
 ```
 
 ## Contributing
