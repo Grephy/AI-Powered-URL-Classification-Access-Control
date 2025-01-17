@@ -36,6 +36,11 @@ pip install -r requirements.txt
 4. Run the application:
 
 ```bash
+access_control_system.py
+```
+5. To train yourself and run the application
+
+```bash
 malicious url finder and blocker.py
 ```
 
