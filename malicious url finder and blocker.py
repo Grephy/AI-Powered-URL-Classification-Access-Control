@@ -664,13 +664,13 @@ class GuiApp:
 
         def Add():
             UrlStr = str(URL.get()).strip()
-            if not (
-                ("https://" in UrlStr) or ("http://" in UrlStr) or ("www." in UrlStr)
-            ):
-                messagebox.showerror(
-                    "Erorr !!", "Please Tybe Full Url [ Ex: https://www.instagram.com ]"
-                )
-                return
+            # if not (
+            #     ("https://" in UrlStr) or ("http://" in UrlStr) or ("www." in UrlStr)
+            # ):
+            #     messagebox.showerror(
+            #         "Erorr !!", "Please Tybe Full Url [ Ex: https://www.instagram.com ]"
+            #     )
+            #     return
             if UrlStr in list(listbox.get(0, last=10000)):
                 messagebox.showerror("Error !!", "This URL is Already Added ..")
                 return
