@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+numpy
+matplotlib
+xgboost
+lightgbm
+seaborn
+wordcloud
+googlesearch-python
+tld
+tkinter
